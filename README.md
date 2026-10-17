@@ -12,7 +12,7 @@ Odkazy mají stálou adresu. Nahrajete-li pod stejným názvem novější verzi,
 
 | Aplikace | Program | Příručka |
 |---|---|---|
-| Sledování baterie – hlasově oznamuje stav baterie, běží na pozadí | [baterie.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/baterie.exe) | [baterie-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/baterie-prirucka.docx) |
+| Sledování baterie – slouží k pravidelnému oznamování stavu baterie | [baterie.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/baterie.exe) | [baterie-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/baterie-prirucka.docx) |
 | Diář – přístupný diář událostí s datem a časem (instalátor) | [diar-instalace.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/diar-instalace.exe) | [diar-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/diar-prirucka.docx) |
 | Diktafon – přístupný diktafon, nahrávání do MP3 | [diktafon.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/diktafon.exe) | [diktafon-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/diktafon-prirucka.docx) |
 | Hlasové hodiny – v pravidelných intervalech nahlas oznamují čas | [hodiny.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/hodiny.exe) | [hodiny-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/hodiny-prirucka.docx) |

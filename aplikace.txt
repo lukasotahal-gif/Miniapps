@@ -5,7 +5,7 @@
 # Aplikace nahrané do složky "aplikace" a příručky do složky "prirucky" se v programu
 # Verze a klíč slouží k upozornění na novou verzi: MiniApps porovná verzi nainstalovaného programu (Nastavení > Aplikace) s verzí zde. Při vydání nové verze ji zvyšte v programu i zde.
 # objeví i bez zápisu sem (pod názvem souboru). Tento soubor jen přidává hezký název a popis.
-baterie.exe | baterie-prirucka.docx | Sledování baterie | hlasově oznamuje stav baterie, běží na pozadí
+baterie.exe | baterie-prirucka.docx | Sledování baterie | slouží k pravidelnému oznamování stavu baterie
 diar-instalace.exe | diar-prirucka.docx | Diář | přístupný diář událostí s datem a časem (instalátor) | instalator | 1.2.0.0 | Diar
 diktafon.exe | diktafon-prirucka.docx | Diktafon | přístupný diktafon, nahrávání do MP3
 hodiny.exe | hodiny-prirucka.docx | Hlasové hodiny | v pravidelných intervalech nahlas oznamují čas
