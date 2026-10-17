@@ -1,0 +1,4 @@
+*.exe binary
+*.docx binary
+*.txt text eol=lf
+*.bat text eol=crlf
