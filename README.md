@@ -4,7 +4,7 @@ Přístupné aplikace pro Windows (NVDA, JAWS) od Lukáše Otáhala. Aplikace js
 
 ## MiniApps – stahovač aplikací
 
-[miniapps.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/miniapps.exe) – šipkami nahoru a dolů vyberete aplikaci, Enter u instalátorů nabídne šipkami výběr „Stáhnout a nainstalovat“ nebo „Stáhnout a uložit do složky Stažené“. Ostatní aplikace (baterie, hodiny a podobně) se stáhnou i s příručkou do složky Stažené. Nové aplikace v repozitáři se v seznamu objeví samy. Po spuštění program upozorní na novější verzi aplikací, které jste dříve stáhli (přes MiniApps nebo do složky Stažené), i na novou verzi samotného MiniApps.
+[miniapps.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/miniapps.exe) – šipkami nahoru a dolů vyberete aplikaci, Enter u instalátorů nabídne šipkami výběr „Stáhnout a nainstalovat“ nebo „Stáhnout a uložit do složky Stažené“. Ostatní aplikace (baterie, hodiny a podobně) se stáhnou i s příručkou do složky Stažené. Nové aplikace v repozitáři se v seznamu objeví samy. Po spuštění program upozorní na novější verzi aplikací, které jste dříve stáhli (přes MiniApps nebo do složky Stažené), i na novou verzi samotného MiniApps. U aplikací, které se neinstalují, stačí na položce s „dostupná nová verze“ stisknout Enter a potvrdit aktualizaci. Nová verze se uloží na místo, kam MiniApps aplikaci naposledy stáhl (nebo do složky Stažené), a stáhne se i příručka.
 
 ## Přímé odkazy ke stažení
 
