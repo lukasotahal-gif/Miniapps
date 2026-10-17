@@ -35,3 +35,6 @@ Odkazy mají stálou adresu. Nahrajete-li pod stejným názvem novější verzi,
 - `zdroj/posta-editor` – Pošta, Editor a instalátor. Překlad: `bash sestav_os.sh` (mingw-w64 na Linuxu). Google client secret v repozitáři není jako prostý text, viz `CTI_ME.txt`.
 
 Zdrojové kódy dalších aplikací (baterie, hodiny, diktafon, odpočet času, poznámky, skener, svátky, Diář, Vypínač) zatím nejsou v repozitáři.
+
+## Aktualizace MiniApps
+Po vydání nové verze `miniapps.exe` v repozitáři se MiniApps při startu (i po F5) zeptá, zda se má aktualizovat. Stáhne novou verzi, ověří otisk, vymění vlastní soubor, sám se restartuje a smaže zbytek staré verze. Pokud soubor nejde přepsat (například složka s omezeným zápisem), uloží novou verzi do složky Stažené.
