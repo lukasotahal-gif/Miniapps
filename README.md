@@ -29,6 +29,9 @@ Odkazy mají stálou adresu. Nahrajete-li pod stejným názvem novější verzi,
 2. Volitelně přidejte řádek do souboru `aplikace.txt` (název a popis). Bez něj se aplikace v seznamu zobrazí pod názvem souboru.
 3. Novější verzi nahrajete stejným názvem souboru.
 
-## Překlad stahovače
+## Zdrojové kódy
 
-Zdroj je ve složce `zdroj`. Spusťte `kompilace.bat` (MinGW nebo MSVC).
+- `zdroj/miniapps` – MiniApps (stahovač). Překlad: `kompilace.bat` (MinGW nebo MSVC).
+- `zdroj/posta-editor` – Pošta, Editor a instalátor. Překlad: `bash sestav_os.sh` (mingw-w64 na Linuxu). Google client secret v repozitáři není jako prostý text, viz `CTI_ME.txt`.
+
+Zdrojové kódy dalších aplikací (baterie, hodiny, diktafon, odpočet času, poznámky, skener, svátky, Diář, Vypínač) zatím nejsou v repozitáři.
