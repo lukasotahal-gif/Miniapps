@@ -1,8 +1,9 @@
-# Seznam aplikací pro stahovac.exe
+# Seznam aplikací pro MiniApps (miniapps.exe)
+# Soubor s "instal" v názvu je instalátor: MiniApps nabídne výběr šipkami (stáhnout a nainstalovat / uložit do Stažené). Příručka je součástí instalátoru, nestahuje se zvlášť.
+# Ostatní soubory se neinstalují: stáhne se program a příručka do složky Stažené.
 # Formát řádku:  soubor aplikace | soubor příručky | Název | Popis
 # Aplikace nahrané do složky "aplikace" a příručky do složky "prirucky" se v programu
 # objeví i bez zápisu sem (pod názvem souboru). Tento soubor jen přidává hezký název a popis.
-# Soubor s "instal" v názvu se při instalaci jen spustí, ostatní se uloží do složky Miniaplikace a spustí.
 baterie.exe | baterie-prirucka.docx | Sledování baterie | hlasově oznamuje stav baterie, běží na pozadí
 diar-instalace.exe | diar-prirucka.docx | Diář | přístupný diář událostí s datem a časem (instalátor)
 diktafon.exe | diktafon-prirucka.docx | Diktafon | přístupný diktafon, nahrávání do MP3
