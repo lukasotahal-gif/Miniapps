@@ -37,7 +37,7 @@ Odkazy mají stálou adresu. Nahrajete-li pod stejným názvem novější verzi,
 - `zdroj/baterie`, `zdroj/hodiny`, `zdroj/diktafon`, `zdroj/poznamky`, `zdroj/svatky`, `zdroj/skener` – jednotlivé aplikace, každá má `kompilace.bat` (MinGW).
 - `zdroj/diar` – Diář včetně instalátoru.
 - `zdroj/odpocet-casu` – Odpočet času a jeho instalátor.
-- `zdroj/vypinac` – zdroj instalátoru Vypínače (zdroj samotného programu zatím chybí).
+- `zdroj/vypinac` – Vypínač: program (`program/`) a instalátor (`instalator/`), každý má `kompilace.bat`.
 
 ## Aktualizace MiniApps
 Po vydání nové verze `miniapps.exe` v repozitáři se MiniApps při startu (i po F5) zeptá, zda se má aktualizovat. Stáhne novou verzi, ověří otisk, vymění vlastní soubor, sám se restartuje a smaže zbytek staré verze. Pokud soubor nejde přepsat (například složka s omezeným zápisem), uloží novou verzi do složky Stažené.
