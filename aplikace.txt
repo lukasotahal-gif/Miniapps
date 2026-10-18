@@ -9,7 +9,7 @@ baterie.exe | baterie-prirucka.docx | Sledování baterie | slouží k pravideln
 diar-instalace.exe | diar-prirucka.docx | Diář | přístupný diář událostí s datem a časem (instalátor) | instalator | 1.2.0.0 | Diar
 diktafon.exe | diktafon-prirucka.docx | Diktafon | přístupný diktafon, nahrávání do MP3
 hodiny.exe | hodiny-prirucka.docx | Hlasové hodiny | v pravidelných intervalech nahlas oznamují čas
-odpocet-casu.exe | odpocet-casu-prirucka.docx | Odpočet času | hlídá nastavený čas a upozorní zvukem a hlasem
+odpocet-casu.exe | odpocet-casu-prirucka.docx | Odpočet času | slouží jako minutka a upozornění jen hlasem
 posta-editor.exe | posta-editor-prirucka.docx | Pošta a Editor | e-mailový klient, textový editor a čtečka dokumentů (instalátor) | instalator | 1.2026.1017.1 | PostaEditor
 poznamky.exe | poznamky-prirucka.docx | Poznámky | jednoduchá aplikace na krátké textové poznámky
 skener.exe | skener-prirucka.docx | Skener OCR | naskenuje stránku, rozpozná text a přečte ho nahlas
