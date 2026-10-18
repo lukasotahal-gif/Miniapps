@@ -22,6 +22,7 @@ Odkazy mají stálou adresu. Nahrajete-li pod stejným názvem novější verzi,
 | Skener OCR – naskenuje stránku, rozpozná text a přečte ho nahlas | [skener.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/skener.exe) | [skener-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/skener-prirucka.docx) |
 | Svátky – české svátky a jmeniny | [svatky.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/svatky.exe) | [svatky-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/svatky-prirucka.docx) |
 | Automatické vypnutí počítače – časované vypnutí počítače (instalátor) | [vypinac-instalator.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vypinac-instalator.exe) | [vypinac-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/vypinac-prirucka.docx) |
+| Vstup na plochu – po startu Windows přesune fokus na plochu (instalátor) | [vstup-na-plochu-instalace.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vstup-na-plochu-instalace.exe) | příručka není |
 
 ## Jak přidat novou aplikaci
 
