@@ -35,4 +35,4 @@ Odkazy mají stálou adresu. Nahrajete-li pod stejným názvem novější verzi,
 Zdrojové kódy nejsou veřejné, jsou uloženy v soukromém úložišti.
 
 ## Aktualizace MiniApps
-Po vydání nové verze `miniapps.exe` v repozitáři se MiniApps při startu (i po F5) zeptá, zda se má aktualizovat. Stáhne novou verzi, ověří otisk, vymění vlastní soubor, nový program se použije po jeho ručním ukončení a spuštění. Pokud soubor nejde přepsat (například složka s omezeným zápisem), uloží novou verzi do složky Stažené.
+Po vydání nové verze `miniapps.exe` v repozitáři se MiniApps při startu (i po F5) sám, bez dotazu, aktualizuje. Stáhne novou verzi, ověří otisk, vymění vlastní soubor, nový program se použije po jeho ručním ukončení a spuštění. Pokud soubor nejde přepsat (například složka s omezeným zápisem), uloží novou verzi do složky Stažené.
