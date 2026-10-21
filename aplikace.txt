@@ -16,3 +16,4 @@ skener.exe | skener-prirucka.docx | Skener OCR | naskenuje stránku, rozpozná t
 svatky.exe | svatky-prirucka.docx | Svátky | seznam českých svátků, možnost hledání podle jména a data
 vypinac-instalator.exe | vypinac-prirucka.docx | Automatické vypnutí počítače | časované vypnutí počítače (instalátor) | instalator | 1.0.0.0 | Vypinac
 vstup-na-plochu-instalace.exe |  | Vstup na plochu | po startu automaticky umístí kurzor na plochu (instalátor) | instalator | 1.0.0 | VstupNaPlochu
+vzdalena-pomoc-instalator.exe |  | Vzdálená pomoc | instalátor vzdálené pomoci (stáhne RIM a nainstaluje automatické přijímání hovorů) (instalátor) | instalator |  | 
