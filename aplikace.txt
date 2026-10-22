@@ -6,14 +6,14 @@
 # Verze a klíč slouží k upozornění na novou verzi: MiniApps porovná verzi nainstalovaného programu (Nastavení > Aplikace) s verzí zde. Při vydání nové verze ji zvyšte v programu i zde.
 # objeví i bez zápisu sem (pod názvem souboru). Tento soubor jen přidává hezký název a popis.
 baterie.exe | baterie-prirucka.docx | Sledování baterie | slouží k pravidelnému oznamování stavu baterie
-diar-instalace.exe | diar-prirucka.docx | Diář | přístupný diář událostí s datem a časem (instalátor) | instalator | 1.2.0.0 | Diar
+diar-instalace.exe | diar-prirucka.docx | Diář | přístupný diář událostí s datem a časem (instalátor) | instalator | 1.2.0.1 | Diar
 diktafon.exe | diktafon-prirucka.docx | Diktafon | přístupný diktafon, nahrávání do MP3
 hodiny.exe | hodiny-prirucka.docx | Hlasové hodiny | v pravidelných intervalech nahlas oznamují čas
-odpocet-casu-instalace.exe | odpocet-casu-prirucka.docx | Odpočet času | slouží jako minutka a upozornění hlasem (instalátor) | instalator | 1.0.0 | OdpocetCasu
-posta-editor.exe | posta-editor-prirucka.docx | Pošta a Editor | e-mailový klient, textový editor a čtečka dokumentů (instalátor) | instalator | 1.2026.1022.1 | PostaEditor
+odpocet-casu-instalace.exe | odpocet-casu-prirucka.docx | Odpočet času | slouží jako minutka a upozornění hlasem (instalátor) | instalator | 1.0.1 | OdpocetCasu
+posta-editor.exe | posta-editor-prirucka.docx | Pošta a Editor | e-mailový klient, textový editor a čtečka dokumentů (instalátor) | instalator | 1.2026.1022.2 | PostaEditor
 poznamky.exe | poznamky-prirucka.docx | Poznámky | jednoduchá aplikace na krátké textové poznámky
 skener.exe | skener-prirucka.docx | Skener OCR | naskenuje stránku, rozpozná text a přečte ho nahlas
 svatky.exe | svatky-prirucka.docx | Svátky | seznam českých svátků, možnost hledání podle jména a data
-vypinac-instalator.exe | vypinac-prirucka.docx | Automatické vypnutí počítače | časované vypnutí počítače (instalátor) | instalator | 1.0.0.0 | Vypinac
-vstup-na-plochu-instalace.exe |  | Vstup na plochu | po startu automaticky umístí kurzor na plochu (instalátor) | instalator | 1.0.0 | VstupNaPlochu
+vypinac-instalator.exe | vypinac-prirucka.docx | Automatické vypnutí počítače | časované vypnutí počítače (instalátor) | instalator | 1.0.0.1 | Vypinac
+vstup-na-plochu-instalace.exe |  | Vstup na plochu | po startu automaticky umístí kurzor na plochu (instalátor) | instalator | 1.0.1 | VstupNaPlochu
 vzdalena-pomoc-instalator.exe |  | Vzdálená pomoc | stáhne a nainstaluje program RIM pro vzdálenou pomoc spolu s doplňkem RimHovor. Doplněk RimHovor za vás automaticky přijme hlasový hovor, když se k vašemu počítači někdo připojí, takže spolu můžete hned mluvit (instalátor) | instalator |  | 
