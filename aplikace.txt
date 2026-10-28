@@ -17,4 +17,4 @@ svatky.exe | svatky-prirucka.docx | Svátky | seznam českých svátků, možnos
 vypinac-instalator.exe | vypinac-prirucka.docx | Automatické vypnutí počítače | časované vypnutí počítače (instalátor) | instalator | 1.0.0.1 | Vypinac
 vstup-na-plochu-instalace.exe |  | Vstup na plochu | po startu automaticky umístí kurzor na plochu (instalátor) | instalator | 1.0.1 | VstupNaPlochu
 vzdalena-pomoc-instalator.exe |  | Vzdálená pomoc | stáhne a nainstaluje program RIM pro vzdálenou pomoc spolu s doplňkem RimHovor. Doplněk RimHovor za vás automaticky přijme hlasový hovor, když se k vašemu počítači někdo připojí, takže spolu můžete hned mluvit (instalátor) | instalator |  | 
-chat-instalator.exe | Chat_s_ChatGPT_prirucka.docx | Přístupný ChatGPT | přístupný chat s ChatGPT bez API klíče, ovládání z klávesnice (instalátor) | instalator | 0.1.0 | ChatSChatGPT_LukasOtahal
+chat-instalator.exe | Chat_s_ChatGPT_prirucka.docx | Přístupný ChatGPT | přístupný chat s ChatGPT bez API klíče (instalátor) | instalator | 0.1.0 | ChatSChatGPT_LukasOtahal
