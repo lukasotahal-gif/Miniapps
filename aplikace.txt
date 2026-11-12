@@ -9,7 +9,7 @@ baterie.exe | baterie-prirucka.docx | Sledování baterie | slouží k pravideln
 chat-instalator.exe | Chat_s_ChatGPT_prirucka.docx | ChatGPT | přístupný chat s ChatGPT bez API klíče (instalátor) | instalator | 0.2.2 | ChatSChatGPT_LukasOtahal
 diar-instalace.exe | diar-prirucka.docx | Diář | přístupný diář událostí s datem a časem (instalátor) | instalator | 1.3.0.0 | Diar
 diktafon.exe | diktafon-prirucka.docx | Diktafon | přístupný diktafon, nahrávání do MP3
-diktovani.exe |  | Diktování pro Windows | diktování hlasem do libovolného programu, vyžaduje OpenAI klíč
+diktovani.exe |  | Diktování pro Windows | diktování hlasem do libovolného programu; vyžaduje vlastní klíč OpenAI s nabitým kreditem, bez kreditu diktování nefunguje
 hodiny.exe | hodiny-prirucka.docx | Hlasové hodiny | v pravidelných intervalech nahlas oznamují čas
 kopirka.exe | kopirka-prirucka.docx | Kopírka | po spuštění naskenuje stránku a automaticky pošle text i obraz do tiskárny
 odpocet-casu-instalace.exe | odpocet-casu-prirucka.docx | Odpočet času | slouží jako minutka a upozornění hlasem (instalátor) | instalator | 1.1.0 | OdpocetCasu
