@@ -10,12 +10,12 @@ chat-instalator.exe | Chat_s_ChatGPT_prirucka.docx | ChatGPT | přístupný chat
 diar-instalace.exe | diar-prirucka.docx | Diář | přístupný diář událostí s datem a časem (instalátor) | instalator | 1.3.0.0 | Diar
 diktafon.exe | diktafon-prirucka.docx | Diktafon | přístupný diktafon, nahrávání do MP3
 diktovani.exe |  | Diktování pro Windows | diktování hlasem do libovolného programu; vyžaduje vlastní klíč OpenAI s nabitým kreditem, bez kreditu diktování nefunguje
-hodiny.exe | hodiny-prirucka.docx | Hlasové hodiny | v pravidelných intervalech nahlas oznamují čas
+hodiny.exe | hodiny-prirucka.docx | Hlasové hodiny | v pravidelných intervalech nahlas oznamují čas hlasem, který je ve Windows nastaven v převodu textu na řeč
 kopirka.exe | kopirka-prirucka.docx | Kopírka | po spuštění naskenuje stránku a automaticky pošle text i obraz do tiskárny
 odpocet-casu-instalace.exe | odpocet-casu-prirucka.docx | Odpočet času | slouží jako minutka a upozornění hlasem (instalátor) | instalator | 1.1.0 | OdpocetCasu
 posta-editor.exe | posta-editor-prirucka.docx | Pošta a Editor | e-mailový klient, textový editor a čtečka dokumentů (instalátor) | instalator | 1.2026.1111.4 | PostaEditor
 poznamky.exe | poznamky-prirucka.docx | Poznámky | jednoduchá aplikace na krátké textové poznámky
-skener.exe | skener-prirucka.docx | Skener OCR | naskenuje stránku, rozpozná text a přečte ho nahlas
+skener.exe | skener-prirucka.docx | Skener OCR | naskenuje stránku, rozpozná text a přečte ho nahlas hlasem, který je ve Windows nastaven v převodu textu na řeč
 svatky.exe | svatky-prirucka.docx | Svátky | seznam českých svátků, možnost hledání podle jména a data
 vypinac-instalator.exe | vypinac-prirucka.docx | Automatické vypnutí počítače | časované vypnutí počítače (instalátor) | instalator | 1.1.0.0 | Vypinac
 vstup-na-plochu-instalace.exe |  | Vstup na plochu | po startu automaticky umístí kurzor na plochu (instalátor) | instalator | 1.1.0 | VstupNaPlochu
