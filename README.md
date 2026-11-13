@@ -26,7 +26,7 @@ Odkazy mají stálou adresu. Nahrajete-li pod stejným názvem novější verzi,
 | Svátky – seznam českých svátků, možnost hledání podle jména a data | [svatky.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/svatky.exe) | [svatky-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/svatky-prirucka.docx) |
 | Automatické vypnutí počítače – časované vypnutí počítače (instalátor) | [vypinac-instalator.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vypinac-instalator.exe) | [vypinac-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/vypinac-prirucka.docx) |
 | Vstup na plochu – po startu automaticky umístí kurzor na plochu (instalátor) | [vstup-na-plochu-instalace.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vstup-na-plochu-instalace.exe) | příručka není |
-| Vzdálená pomoc – stáhne a nainstaluje program Remote Incident Manager od vývojáře Pneuma Solutions pro vzdálenou pomoc spolu s doplňkem RimHovor. Doplněk RimHovor za vás automaticky přijme hlasový hovor, když se k vašemu počítači někdo připojí, takže spolu můžete hned mluvit (instalátor) | [vzdalena-pomoc-instalator.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vzdalena-pomoc-instalator.exe) | příručka není |
+| Vzdálená pomoc – stáhne a nainstaluje program Remote Incident Manager od vývojáře Pneuma Solutions pro vzdálenou pomoc spolu s doplňkem RimHovor. Doplněk RimHovor za vás automaticky přijme hlasový hovor, když se k vašemu počítači někdo připojí, takže spolu můžete hned mluvit (instalátor) | [vzdalena-pomoc-instalace.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vzdalena-pomoc-instalace.exe) | příručka není |
 
 ## Jak přidat novou aplikaci
 
