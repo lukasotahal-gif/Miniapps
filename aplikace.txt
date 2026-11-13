@@ -13,7 +13,7 @@ diktovani.exe |  | Diktování pro Windows | diktování hlasem do libovolného 
 hodiny.exe | hodiny-prirucka.docx | Hlasové hodiny | v pravidelných intervalech nahlas oznamují čas hlasem, který je ve Windows nastaven v převodu textu na řeč
 kopirka.exe | kopirka-prirucka.docx | Kopírka | po spuštění naskenuje stránku a automaticky pošle text i obraz do tiskárny
 odpocet-casu-instalace.exe | odpocet-casu-prirucka.docx | Odpočet času | slouží jako minutka a upozornění hlasem (instalátor) | instalator | 1.1.1 | OdpocetCasu
-posta-editor.exe | posta-editor-prirucka.docx | Pošta a Editor | e-mailový klient, textový editor a čtečka dokumentů (instalátor) | instalator | 1.2026.1113.1 | PostaEditor
+posta-editor.exe | posta-editor-prirucka.docx | Pošta a Editor | e-mailový klient, textový editor a čtečka dokumentů (instalátor) | instalator | 1.2026.1113.2 | PostaEditor
 poznamky.exe | poznamky-prirucka.docx | Poznámky | jednoduchá aplikace na krátké textové poznámky
 skener.exe | skener-prirucka.docx | Skener OCR | naskenuje stránku, rozpozná text a přečte ho nahlas hlasem, který je ve Windows nastaven v převodu textu na řeč
 svatky.exe | svatky-prirucka.docx | Svátky | seznam českých svátků, možnost hledání podle jména a data
