@@ -12,7 +12,7 @@ chat-instalator.exe | Chat_s_ChatGPT_prirucka.docx | ChatGPT | přístupný chat
 diar-instalace.exe | diar-prirucka.docx | Diář | přístupný diář událostí s datem a časem (instalátor) | instalator | 1.3.2.0 | Diar
 diktafon.exe | diktafon-prirucka.docx | Diktafon | přístupný diktafon, nahrávání do MP3
 diktovani.exe |  | Diktování pro Windows | diktování hlasem do libovolného programu; vyžaduje vlastní klíč OpenAI s nabitým kreditem, bez kreditu diktování nefunguje
-hlas.exe | hlas-prirucka.docx | Nastavení hlasu | vyberete výchozí hlas převodu textu na řeč šipkami a Enterem, bez nastavování ve Windows; po výběru hlasu a potvrzení Enterem je nutné restartovat počítač, aby se změna projevila
+hlas.exe | hlas-prirucka.docx | Nastavení hlasu | vyberete výchozí hlas převodu textu na řeč a rychlost řeči šipkami a Enterem, bez nastavování ve Windows; umí povolit český hlas Microsoft Jakub; po výběru hlasu a potvrzení Enterem je nutné restartovat počítač, aby se změna projevila
 hodiny.exe | hodiny-prirucka.docx | Hlasové hodiny | v pravidelných intervalech nahlas oznamují čas hlasem, který je ve Windows nastaven v převodu textu na řeč
 kopirka.exe | kopirka-prirucka.docx | Kopírka | po spuštění naskenuje stránku a automaticky pošle text i obraz do tiskárny
 odpocet-casu-instalace.exe | odpocet-casu-prirucka.docx | Odpočet času | slouží jako minutka a upozornění hlasem (instalátor) | instalator | 1.1.2 | OdpocetCasu
