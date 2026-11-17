@@ -24,4 +24,3 @@ vypinac-instalator.exe | vypinac-prirucka.docx | Automatické vypnutí počíta�
 vstup-na-plochu-instalace.exe |  | Vstup na plochu | po startu automaticky umístí kurzor na plochu (instalátor) | instalator | 1.1.2 | VstupNaPlochu
 vzdalena-pomoc-instalace.exe |  | Instalace Remote Incident Manager od Pneuma Solutions |  | instalator bezaktualizace |  | 
 vzdalena-pomoc-klic.exe |  | Pokud potřebujete vzdálenou pomoc s počítačem | stiskněte Enter, napište klíč, který vám nadiktuje technik, a znovu stiskněte Enter; technik se k vám připojí, a pokud v počítači chybí Remote Incident Manager, nejdřív se sám stáhne a nainstaluje | instalator bezaktualizace |  | 
-rimhovor-instalace.exe |  | Instalace RIM Hovor | doplněk k Remote Incident Manageru, který při vzdálené pomoci sám přijme hlasový hovor | instalator bezaktualizace |  | 
