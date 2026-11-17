@@ -30,7 +30,7 @@ Odkazy mají stálou adresu. Nahrajete-li pod stejným názvem novější verzi,
 | Automatické vypnutí počítače – časované vypnutí počítače (instalátor) | [vypinac-instalator.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vypinac-instalator.exe) | [vypinac-prirucka.docx](https://github.com/lukasotahal-gif/Miniapps/raw/main/prirucky/vypinac-prirucka.docx) |
 | Vstup na plochu – po startu automaticky umístí kurzor na plochu (instalátor) | [vstup-na-plochu-instalace.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vstup-na-plochu-instalace.exe) | příručka není |
 | Instalace Remote Incident Manager od Pneuma Solutions | [vzdalena-pomoc-instalace.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vzdalena-pomoc-instalace.exe) | příručka není |
-| Pokud potřebujete vzdálenou pomoc s počítačem – stiskněte Enter, napište klíč, který vám nadiktuje technik, a znovu stiskněte Enter; technik se k vám připojí, a pokud v počítači chybí Remote Incident Manager, nejdřív se sám stáhne a nainstaluje | [rim_klic.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/rim_klic.exe) | příručka není |
+| Pokud potřebujete vzdálenou pomoc s počítačem – stiskněte Enter, napište klíč, který vám nadiktuje technik, a znovu stiskněte Enter; technik se k vám připojí, a pokud v počítači chybí Remote Incident Manager, nejdřív se sám stáhne a nainstaluje | [vzdalena-pomoc-klic.exe](https://github.com/lukasotahal-gif/Miniapps/raw/main/aplikace/vzdalena-pomoc-klic.exe) | příručka není |
 
 ## Jak přidat novou aplikaci
 
