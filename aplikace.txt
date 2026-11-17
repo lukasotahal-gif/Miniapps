@@ -22,4 +22,4 @@ skener.exe | skener-prirucka.docx | Skener OCR | naskenuje stránku, rozpozná t
 svatky.exe | svatky-prirucka.docx | Svátky | seznam českých svátků, možnost hledání podle jména a data
 vypinac-instalator.exe | vypinac-prirucka.docx | Automatické vypnutí počítače | časované vypnutí počítače (instalátor) | instalator | 1.1.2.0 | Vypinac
 vstup-na-plochu-instalace.exe |  | Vstup na plochu | po startu automaticky umístí kurzor na plochu (instalátor) | instalator | 1.1.2 | VstupNaPlochu
-vzdalena-pomoc-instalace.exe |  | Vzdálená pomoc | když mě o to požádáte, mohu se připojit k vašemu počítači a pomoct vyřešit problém. Nainstaluje Remote Incident Manager od Pneuma Solutions a doplněk RimHovor, který hlasový hovor přijme automaticky (instalátor) | instalator |  | 
+vzdalena-pomoc-instalace.exe |  | Instalace Remote Incident Manager od Pneuma Solutions | když mě o to požádáte, mohu se připojit k vašemu počítači a pomoct vyřešit problém. Nainstaluje Remote Incident Manager od Pneuma Solutions a doplněk RimHovor, který hlasový hovor přijme automaticky (instalátor) | instalator |  | 
