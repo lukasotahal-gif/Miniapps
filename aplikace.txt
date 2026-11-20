@@ -22,4 +22,4 @@ skener.exe | skener-prirucka.docx | Skener OCR | naskenuje stránku, rozpozná t
 svatky.exe | svatky-prirucka.docx | Svátky | seznam českých svátků, možnost hledání podle jména a data
 vypinac-instalator.exe | vypinac-prirucka.docx | Automatické vypnutí počítače | časované vypnutí počítače (instalátor) | instalator | 1.1.2.0 | Vypinac
 vstup-na-plochu-instalace.exe |  | Vstup na plochu | po startu automaticky umístí kurzor na plochu (instalátor) | instalator | 1.0.1 | VstupNaPlochu
-vzdalena-pomoc-pocitac.exe |  | Pokud potřebujete vzdálenou pomoc s počítačem | stiskněte Enter, napište klíč, který vám nadiktuje technik, a znovu stiskněte Enter; technik se k vám připojí, a pokud v počítači chybí Remote Incident Manager, nejdřív se sám stáhne a nainstaluje | instalator bezaktualizace |  | 
+vzdalena-pomoc-pc.exe |  | Pokud potřebujete vzdálenou pomoc s počítačem | stiskněte Enter, napište klíč, který vám nadiktuje technik, a znovu stiskněte Enter; technik se k vám připojí, a pokud v počítači chybí Remote Incident Manager, nejdřív se sám stáhne a nainstaluje | instalator bezaktualizace |  | 
