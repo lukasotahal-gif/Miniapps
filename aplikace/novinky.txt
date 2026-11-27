@@ -1,0 +1,54 @@
+﻿Novinky v aplikacích Lukáše Otáhala
+Nejnovější zprávy jsou nahoře. Aplikace stáhnete v MiniApps.
+
+== 27. listopadu 2026 – Pošta a Editor 1.2026.1127.8
+
+Nové klávesy v seznamu zpráv:
+- Ctrl+Z vrátí poslední smazání nebo přesun zprávy, i u více zpráv najednou.
+- Ctrl+I řekne, kde jste: složku, rozsah zpráv, počet nepřečtených a vybraných.
+- Ctrl+U přejde na další nepřečtenou zprávu, Ctrl+Shift+U na předchozí.
+- Ctrl+A vybere všechny zprávy na stránce, Escape výběr zruší.
+- F1 ukáže seznam kláves pro místo, kde právě jste. Funguje v seznamu složek, v seznamu zpráv, v okně zprávy i při psaní.
+
+Výběr a hromadné akce:
+- Ctrl+mezerník vybere zprávu, Shift a šipky vyberou celý blok.
+- Vybrané zprávy smažete klávesou Delete, archivujete Backspacem nebo přesunete do složky z kontextové nabídky.
+- U Odstraněné pošty, Odeslané pošty a Konceptů je v kontextové nabídce Vymazat všechny zprávy ve složce.
+- Smazaná nebo přesunutá zpráva zmizí ze seznamu hned.
+
+V okně zprávy:
+- Alt+1 až Alt+5 přečte Od, Komu, Předmět, Datum a Přílohy, aniž byste opustili text.
+- Alt+4 řekne vždy celé datum, například pondělí 23. listopadu 2026 9:05.
+- Odečítač řekne i počet příloh v seznamu příloh.
+
+Seznam složek a zpráv:
+- U Doručené pošty a vašich složek je počet nepřečtených zpráv.
+- Po otevření složky Pošta řekne, kolik je v ní zpráv a kolik nepřečtených. Dá se vypnout v Nastavení, Zobrazované informace.
+- Prázdná složka se neotevře, Pošta jen řekne Složka je prázdná.
+- Datum se čte zkráceně: dnes 14:20, včera 9:05, středa 8:15, u starších zpráv 19. listopadu 9:05.
+- Pošta si pamatuje stránku a zprávu, kde jste ve složce naposledy byli.
+
+Psaní zprávy:
+- Nová zpráva se odešle z účtu, na kterém stojíte kurzorem. Účet je uvedený v názvu okna.
+- Před odesláním Pošta upozorní, když chybí předmět, nebo když text zmiňuje přílohu a žádná není připojená.
+- Ctrl+F v seznamu zpráv rovnou přepošle zprávu, Ctrl+Shift+F otevře hledání ve zprávách.
+
+Další změny:
+- Při dlouhé práci Pošta každých 10 sekund řekne, že pořád pracuje a kolik zpráv je hotovo.
+- Když nefunguje internet, Pošta to řekne a poradí, co dělat.
+- Interval kontroly nové pošty na pozadí si nastavíte v Nastavení: 5, 10, 15, 20, 30 nebo 60 minut.
+- Skript pro JAWS a doplněk pro NVDA nabízí Pošta sama po spuštění a doinstaluje je i do nových verzí JAWS a NVDA. Ručně je nainstalujete v Nastavení tlačítkem Instalace doplňku pro JAWS a NVDA.
+- NVDA nově čte i hlášení jako Zpráva odeslána nebo Nastavení uloženo a prázdnou složku hlásí jen jednou.
+- Instalátor už nezasahuje do nastavení JAWS, NVDA ani spouštění po startu Windows. Spouštění po startu zapnete v Nastavení Pošty.
+
+== 25. listopadu 2026 – ChatGPT 0.3.4
+
+- Po spuštění se vždy otevře nová konverzace. Kdo chce pokračovat v poslední, zapne si v nabídce Soubor volbu Po spuštění otevřít naposledy otevřenou konverzaci.
+- Konverzaci otevřenou z historie zavřete klávesou Escape.
+- V nabídce Soubor si vyberete, zda se má v historii číst nejdřív název, nebo datum a čas.
+- Smazat můžete i více konverzací najednou, vybírají se Shiftem a šipkami, nebo Ctrl a šipkami a Ctrl+mezerníkem.
+- Po otevření konverzace z historie stojí kurzor na jejím začátku.
+- Rozepsaná zpráva se pamatuje u každé konverzace zvlášť.
+- Po výpadku spojení se konverzace sama obnoví.
+- Při vypnutí Windows se konverzace uloží.
+- Historie z webu ChatGPT se načte i z nového exportu dat, který je rozdělený do více souborů.
