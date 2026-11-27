@@ -1,11 +1,11 @@
 ﻿Novinky v aplikacích Lukáše Otáhala
 Nejnovější zprávy jsou nahoře. Aplikace stáhnete v MiniApps.
 
-== 28. listopadu 2026 – Pošta a Editor 1.2026.1128.1
+== 28. listopadu 2026 – Pošta a Editor 1.2026.1128.2
 
 - Počet nepřečtených zpráv je nově u všech složek, nejen u Doručené pošty. V seznamu složek se ukáže jen číslo, například Doručená pošta, 14.
 - V Nastavení, Zobrazované informace si vyberete, zda chcete počet všech nepřečtených zpráv ve složce, nebo jen z prvních 50 zpráv. Zvlášť pro seznam složek a zvlášť pro hlášení po otevření složky. Volbou Neoznamovat nepřečtené zprávy počty úplně vypnete.
-- Po otevření složky Pošta řekne například Doručená pošta, 14 nepřečtených.
+- Po otevření složky Pošta řekne například Doručená pošta, 14 nepřečtených. Když nepřečtené nejsou, neřekne nic.
 - V kontextové nabídce složek je nová položka Označit vše jako přečtené.
 - Přejmenovat a Smazat složku se ukazují jen u vašich vlastních složek, u Doručené, Odeslané a dalších hlavních složek už ne.
 - Rychlejší start: po spuštění se počet nepřečtených zjišťuje jen u Doručené pošty, u ostatních složek až po přejetí kurzorem.
