@@ -1,0 +1,15 @@
+﻿O autorovi a podpora vývoje
+
+Jmenuji se Lukáš Otáhal, pracuji jako lektor výpočetní techniky a správce počítačové sítě.
+
+Děkuji, že používáte můj katalog aplikací MiniApps, a doufám, že vám moje aplikace budou užitečné.
+
+Začal jsem je vytvářet proto, že mi chyběly aplikace, které se ovládají velmi jednoduše, jsou rychlé a obsahují jen to nejdůležitější.
+
+Pokud máte návrh na zlepšení nebo narazíte na chybu, napište mi prosím přes položku Nahlásit problém nebo návrh v MiniApps.
+
+Všechny aplikace se snažím důkladně testovat na několika počítačích, ale chyby se samozřejmě mohou objevit. Aplikace vytvářím s pomocí umělé inteligence, a to má jednu výhodu: chyby se dají rychle opravit.
+
+Pokud chcete podpořit vývoj mých aplikací, můžete přispět na účet číslo 1382722053/0800.
+
+Děkuji.
