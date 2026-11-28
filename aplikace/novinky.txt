@@ -1,6 +1,25 @@
 ﻿Novinky v aplikacích Lukáše Otáhala
 Nejnovější zprávy jsou nahoře. Aplikace stáhnete v MiniApps.
 
+== 28. listopadu 2026 – Pošta a Editor 1.2026.1128.7
+
+Editor a Čtečka dokumentů:
+- Místo tlačítka Diktovat je tlačítko Hledat. Hledání v textu otevře také Ctrl+F nebo F8. Odečítač přečte celý řádek s nalezeným textem, na konci textu hledání pokračuje od začátku. Diktovat můžete dál zkratkou Windows+H.
+- Velmi dlouhé soubory se načítají rychle a pohyb v nich je plynulý.
+- Nově se otevřou prezentace PowerPoint (PPTX), sešity Excel (XLSX), soubory LibreOffice ODS a ODP, starý Word 97–2003 (DOC) a knihy FB2. Prezentace se čte po snímcích, sešit po listech, řádek tabulky je na jednom řádku.
+- Nově se rozpozná text i v obrázcích WebP, HEIC, HEIF, AVIF a JPEG XR a ve všech stránkách vícestránkového TIFFu ze skeneru.
+- Ctrl+V s obrázkem ve schránce (například snímek obrazovky) rozpozná text a vloží ho. Ctrl+V se souborem zkopírovaným v Průzkumníkovi soubor otevře.
+- Záložka (místo, kde jste skončili) se spolehlivě uloží i u souborů s neobvyklými znaky v názvu a ukládá se i při přepnutí do jiného okna.
+- Soubory TXT, MD, CSV, INI a další se ukládají zpět jako prostý text ve stejném kódování. Dřív se mohly přepsat do RTF.
+- Když se uložení nepovede, původní soubor zůstane celý.
+- Při otevření jiného souboru se Editor zeptá, zda uložit neuložené změny.
+- Word dokumenty se čtou bez kódů polí a bez zdvojeného textu, knihy EPUB v pořadí kapitol.
+
+Pošta:
+- V JAWS i NVDA se při označování Shiftem a šipkami čte nejdřív Označeno a pak zpráva.
+- Okno s nabídkou instalace skriptu pro JAWS a doplňku pro NVDA se už neobjevuje při každém spuštění.
+- Pošta otevře v Editoru i přílohy v nových formátech.
+
 == 28. listopadu 2026 – Pošta a Editor 1.2026.1128.3
 
 - Označené zprávy mají na řádku slovo Označeno (dříve Vybráno).
