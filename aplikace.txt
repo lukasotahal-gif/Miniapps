@@ -25,4 +25,4 @@ svatky.exe | svatky-prirucka.docx | Svátky | seznam českých svátků, možnos
 vypinac-instalator.exe | vypinac-prirucka.docx | Automatické vypnutí počítače | časované vypnutí počítače (instalátor) | instalator | 1.1.2.0 | Vypinac
 vstup-na-plochu-instalace.exe |  | Vstup na plochu | po startu automaticky umístí kurzor na plochu (instalátor) | instalator | 1.0.1 | VstupNaPlochu
 vzdalena-pomoc-rim.exe |  | Pokud potřebujete vzdálenou pomoc s počítačem | stiskněte Enter; nainstaluje se Remote Incident Manager v češtině a doplněk RIM Hovor a RIM se sám přepne na přijetí vzdálené pomoci, kde jen zadáte klíč, který vám bude sdělen | instalator bezaktualizace |  | 
-o-autorovi.txt |  | O autorovi a podpora vývoje | změněno 27. listopadu 2026 |  |  | 
+o-autorovi.txt |  | O autorovi a podpora vývoje | změněno 28. listopadu 2026 |  |  | 

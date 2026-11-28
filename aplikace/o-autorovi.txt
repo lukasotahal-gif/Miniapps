@@ -6,6 +6,10 @@ Děkuji, že používáte můj katalog aplikací MiniApps, a doufám, že vám m
 
 Začal jsem je vytvářet proto, že mi chyběly aplikace, které se ovládají velmi jednoduše, jsou rychlé a obsahují jen to nejdůležitější.
 
+MiniApps jsem vytvořil proto, abyste nemuseli hledat informace o aplikacích, jejich aktualizacích a novinkách na internetu. Všechno máte k dispozici v jedné aplikaci.
+
+Důraz kladu na maximální přístupnost a na to, aby odečítače obrazovky všechny informace správně přečetly.
+
 Pokud máte návrh na zlepšení nebo narazíte na chybu, napište mi prosím přes položku Nahlásit problém nebo návrh v MiniApps.
 
 Všechny aplikace se snažím důkladně testovat na několika počítačích, ale chyby se samozřejmě mohou objevit. Aplikace vytvářím s pomocí umělé inteligence, a to má jednu výhodu: chyby se dají rychle opravit.
