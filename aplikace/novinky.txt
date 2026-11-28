@@ -1,7 +1,7 @@
 ﻿Novinky v aplikacích Lukáše Otáhala
 Nejnovější zprávy jsou nahoře. Aplikace stáhnete v MiniApps.
 
-== 28. listopadu 2026 – Pošta a Editor 1.2026.1128.26
+== 28. listopadu 2026 – Pošta a Editor 1.2026.1128.27
 
 Editor a Čtečka dokumentů:
 - Místo tlačítka Diktovat je tlačítko Hledat. Hledání v textu otevře také Ctrl+F nebo F8. Odečítač přečte celý řádek s nalezeným textem, na konci textu hledání pokračuje od začátku. Diktovat můžete dál zkratkou Windows+H.
